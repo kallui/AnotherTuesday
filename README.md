@@ -6,7 +6,11 @@
 https://globalgamejam.org/games/2024/another-tuesday-9
 
 ## Trailer
+
+[![Game Trailer](https://img.youtube.com/vi/Y1VO1psnsiU/0.jpg)](https://www.youtube.com/watch?v=Y1VO1psnsiU)
+
 https://www.youtube.com/watch?v=Y1VO1psnsiU
+
 
 ## How to Play
 
