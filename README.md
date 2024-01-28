@@ -2,6 +2,9 @@
 
 ![Game Thumbnail](https://github.com/kallui/AnotherTuesday/assets/90471072/3657f4a1-b266-442c-9002-1298550b35fd)
 
+## Global Game Jam Vancouver Page
+https://globalgamejam.org/games/2024/another-tuesday-9
+
 ## Trailer
 https://www.youtube.com/watch?v=Y1VO1psnsiU
 
