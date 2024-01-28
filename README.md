@@ -17,8 +17,4 @@ Execute AnotherTuesday.exe to launch the game.
 - **Left Click:** Attack
 
 ### Step 4: Have Fun!
-Enjoy playing AnotherTuesday and make the most out of the game jam hackathon!
-
----
-
-Feel free to customize the formatting and content further based on your preferences and additional information about the game.
+Enjoy playing AnotherTuesday !
