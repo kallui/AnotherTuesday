@@ -22,9 +22,8 @@ Execute AnotherTuesday.exe to launch the game.
 ### Step 4: Have Fun!
 Enjoy playing AnotherTuesday !
 
-## Creator
 
-## Big Dogs
+## Created by Team Big Dogs
 - Developer: Nicholas Januar
 - Developer: Flora
 - Audio: Scott Smith
