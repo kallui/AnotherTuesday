@@ -25,12 +25,12 @@ Enjoy playing AnotherTuesday !
 ## Creator
 
 ## Big Dogs
-### Developer: Nicholas Januar
-### Developer: Flora
-### Audio: Scott Smith
-### Designer/Artist: Reuben Newton
-### Writer: Owen Chong
-### Project Manager: Andrii Kuratov
+- Developer: Nicholas Januar
+- Developer: Flora
+- Audio: Scott Smith
+- Designer/Artist: Reuben Newton
+- Writer: Owen Chong
+- Project Manager: Andrii Kuratov
 
 
 
