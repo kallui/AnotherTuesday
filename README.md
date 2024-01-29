@@ -33,8 +33,8 @@ Enjoy playing AnotherTuesday !
 ## Created by Team Big Dogs
 - Developer: Nicholas Januar
 - Developer: Flora
-- Audio: Scott Smith
 - Designer/Artist: Reuben Newton
+- Audio: Scott Smith
 - Writer: Owen Chong
 - Project Manager: Andrii Kuratov
 
