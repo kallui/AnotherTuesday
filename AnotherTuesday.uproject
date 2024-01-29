@@ -23,6 +23,7 @@
 		"LinuxArm64",
 		"Mac",
 		"TVOS",
-		"Windows"
+		"Windows",
+		"IOS"
 	]
 }
